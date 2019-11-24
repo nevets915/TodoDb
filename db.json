@@ -10,7 +10,7 @@
             "userId": 1,
             "id": 2,
             "title": "Mow lawn",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
@@ -22,13 +22,13 @@
             "userId": 1,
             "id": 4,
             "title": "Pay bills",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
             "id": 5,
             "title": "Spend time with significant other",
-            "completed": true
+            "completed": false
         },
         {
             "userId": 1,
@@ -42,8 +42,5 @@
             "title": "Read a book",
             "completed": false
         }
-    ],
-    "profile": {
-        "name": "nevets915"
-    }
+    ]
 }
